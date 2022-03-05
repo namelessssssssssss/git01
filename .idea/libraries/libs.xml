@@ -6,6 +6,7 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.ideaLibSources/druid-1.2.8-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-8.0.28-sources.jar!/" />
     </SOURCES>
     <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" />
   </library>
